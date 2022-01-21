@@ -84,7 +84,7 @@ a:hover{
 }
 
 .skill-row{
-    margin: 100px auto 100px auto;
+    margin: auto;
     text-align: left;
     width: 51%;
 }
@@ -96,12 +96,13 @@ a:hover{
 }
 
 .skill1{
-    padding-top: 40px;
+    padding-top: 45px;
 }
   
 .contact-me{
     width: 40%;
-    margin: 40px auto 60px;
+    line-height: 1;
+    margin: 0 auto 60px;
 }
   
 .mailbtn{
