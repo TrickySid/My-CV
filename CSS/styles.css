@@ -137,6 +137,10 @@ a:hover{
     padding: 50px 0 20px;
 }
 
+.socials:hover{
+    text-decoration: underline;
+}
+
 .copyright{
     color: #EAF6F6;
     font-size: 0.75rem;
